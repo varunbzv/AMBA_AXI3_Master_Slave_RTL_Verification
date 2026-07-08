@@ -1,4 +1,4 @@
-# AMBA_AXI3_Master_Slave_RTL_Verification\
+# AMBA_AXI3_Master_Slave_RTL_Verification
 ## Description
 Implemented and verified an AXI3 master–slave interface in SystemVerilog supporting single fixed-burst read/write transactions using QuestaSim.
 Developed RTL for master and slave modules, created a SystemVerilog testbench, and successfully validated protocol-compliant data transfer and handshaking.
