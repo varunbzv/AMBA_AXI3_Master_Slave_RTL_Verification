@@ -13,6 +13,7 @@ A self-checking SystemVerilog verification environment has been developed to val
 
 ## Features
 
+
 - AXI3 Master RTL
 - AXI3 Slave RTL
 - Fixed Burst transaction support
@@ -57,8 +58,7 @@ simulation/
         axi_tb.sv
         run.do
 
----
-
+```
 ## Tools Used
 
 - SystemVerilog
